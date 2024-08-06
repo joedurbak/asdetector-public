@@ -1,0 +1,26 @@
+{
+  "CommandStartTime": "",
+  "CurrentCommand": "",
+  "CommandComplete": false,
+  "CommandCompleteTime": "",
+  "ExposureTimeRemaining": -9999.9,
+  "TotalFrameCount": -9999,
+  "ExposureFrames": {
+    "CAMERA0": [],
+    "CAMERA1": [],
+    "CAMERA2": [],
+    "CAMERA3": []
+  },
+  "IntermediateReducedFrames": {
+    "CAMERA0": [],
+    "CAMERA1": [],
+    "CAMERA2": [],
+    "CAMERA3": []
+  },
+  "FinalReducedFrame": {
+    "CAMERA0": "",
+    "CAMERA1": "",
+    "CAMERA2": "",
+    "CAMERA3": ""
+  }
+}
