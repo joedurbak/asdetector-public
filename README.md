@@ -1,4 +1,5 @@
 # Astrophysics Science Detector
+[![DOI](https://zenodo.org/badge/838616917.svg)](https://zenodo.org/doi/10.5281/zenodo.13234065)
 
 The Astrophysics Science Detector package (asdetector) provides a command line and tcp server interface to MACIE/ASIC detector readout systems.
 
